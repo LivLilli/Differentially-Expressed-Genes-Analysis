@@ -12,6 +12,6 @@ In particular, here there are the 3 tasks:
 2) Compare hubs sets related to the use of different centrality measures;
 
 
-3)Only considering degree index, are the hubs up or down regulated?
+3) Only considering degree index, are the hubs up or down regulated?
 
 
