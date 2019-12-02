@@ -6,7 +6,7 @@ In this repository, I made an analysis over the differentially expressed genes, 
 
 In particular, here there are the 3 tasks:
 
-1) Compute co-expression network using FC values;
+1) Compute co-expression network using Fold-Change values;
 
 
 2) Compare hubs sets related to the use of different centrality measures;
