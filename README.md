@@ -1,6 +1,10 @@
 # Differentially-Expressed-Genes-Analysis
 
-<img url = "https://www.wizardhealth.co/wp-content/uploads/2016/12/naslovprecizna-c.jpg">
+
+<div align='center'>
+<img src = "https://www.wizardhealth.co/wp-content/uploads/2016/12/naslovprecizna-c.jpg">
+</div>
+
 
 In this repository, I made an analysis over the differentially expressed genes, i.e. the genes whose expressions changes significantly passing from a normal to a tumor condition.
 
