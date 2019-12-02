@@ -6,7 +6,7 @@
 </div>
 
 
-In this repository, I made an analysis over the differentially expressed genes, i.e. the genes whose expressions changes significantly passing from a normal to a tumor condition.
+In this repository, I made an analysis over the differentially expressed genes, i.e. the genes whose expressions change significantly passing from a normal to a tumor condition.
 
 In particular, here there are the 3 tasks:
 
