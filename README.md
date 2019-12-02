@@ -6,13 +6,16 @@ In this repository, I made an analysis over the differentially expressed genes, 
 
 In particular, here there are the 3 tasks:
 
-1) Compute co-expression network using Fold-Change values;
+* Step 1:
+> Compute co-expression network using Fold-Change values;
 
 
-2) Compare hubs sets related to the use of different centrality measures;
+* Step 2:
+> Compare hubs sets related to the use of different centrality measures;
 
 
-3) Only considering degree index, are the hubs up or down regulated?
+* Step 3:
+> Only considering degree index, are the hubs up or down regulated?
 
 
 ## Repository description
